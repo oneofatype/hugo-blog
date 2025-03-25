@@ -1,4 +1,4 @@
-baseURL = "https://www.simplydebug.com/blog/"
+baseURL = "https://blog.simplydebug.com/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
