@@ -1,6 +1,4 @@
 baseURL = "https://hugo-pages-97l.pages.dev/blog/"
-relativeURLs = true
-canonifyURLs = true
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
