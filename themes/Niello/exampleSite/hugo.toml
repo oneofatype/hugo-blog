@@ -1,6 +1,8 @@
-baseURL = "https://blog.simplydebug.com/"
+baseURL = "https://simplydebug.com/blog/"
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 staticDir = ["static", "themes/Niello/static"]
 
@@ -22,23 +24,6 @@ theme = "Niello"
 			weight = 2
 		[[languages.en.menus.main]]
 			name = 'Tags'
-			pageRef = '/tags'
-			weight = 3
-	[languages.zh]
-        languageCode = "zh-cn"
-        LanguageName = "🇨🇳CN"
-        contentDir = "content/zh"
-        weight = 2
-		[[languages.zh.menus.main]]
-			name = 'example首页'
-			pageRef = '/'
-			weight = 1
-		[[languages.zh.menus.main]]
-			name = 'example文章分类'
-			pageRef = '/categories'
-			weight = 2
-		[[languages.zh.menus.main]]
-			name = 'example标签'
 			pageRef = '/tags'
 			weight = 3
 
