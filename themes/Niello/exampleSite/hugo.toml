@@ -1,6 +1,8 @@
 baseURL = "https://hugo-blog-97l.pages.dev/blog/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+relativeURLs = true
+canonifyURLs = true
 
 staticDir = ["static", "themes/Niello/static"]
 
