@@ -1,6 +1,6 @@
-baseURL = "https://hugo-pages-97l.pages.dev/blog/"
+baseURL = "https://hugo-blog-97l.pages.dev/"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 staticDir = ["static", "themes/Niello/static"]
 
@@ -22,6 +22,23 @@ theme = "Niello"
 			weight = 2
 		[[languages.en.menus.main]]
 			name = 'Tags'
+			pageRef = '/tags'
+			weight = 3
+	[languages.zh]
+        languageCode = "zh-cn"
+        LanguageName = "🇨🇳CN"
+        contentDir = "content/zh"
+        weight = 2
+		[[languages.zh.menus.main]]
+			name = 'example首页'
+			pageRef = '/'
+			weight = 1
+		[[languages.zh.menus.main]]
+			name = 'example文章分类'
+			pageRef = '/categories'
+			weight = 2
+		[[languages.zh.menus.main]]
+			name = 'example标签'
 			pageRef = '/tags'
 			weight = 3
 
