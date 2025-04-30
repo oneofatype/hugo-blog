@@ -1,16 +1,16 @@
 +++
 title = "Artificial Intelligence (AI): Resources for Education and Appropriate Application"
-date = 2025-04-30T14:33:25.201576
+date = 2025-04-30T14:43:31.697461
 description = "As artificial intelligence continues to progress, it has been observed that students and teachers are turning to AI for assistance. If we are to keep up with current advancements in the field of education, we must understand AI in education, including its benefits and drawbacks."
-categories = []
-tags = []
+categories = ["Education", "Artificial Intelligence"]
+tags = ["AI in education", "Useful AI for students", "AI tools for teachers", "AI and SDG4", "Proper use of AI in education", "Advantages of AI in studies", "AI tools for students"]
 draft = true
 +++
 Leaders throughout history have placed a high priority on education. Furthermore, as artificial intelligence (AI) continues to progress, it has been observed that students and teachers are turning to AI for assistance, which raises both positive and negative reactions. According to a[ Forbes Advisor survey](https://www.forbes.com/advisor/education/it-and-tech/artificial-intelligence-in-school/), over 60% of teachers employ AI-powered resources in the classroom, demonstrating that the use of AI has begun to spread widely. It is crucial to remember that whenever a revolutionary shift occurs, both of these reactions are triggered, but there is nothing we can do about it other than keep moving forward with the developments. If we are to keep up with current advancements in the field of education, we must understand AI in education, including its benefits and drawbacks. For this reason, it is imperative that we understand how to use AI to improve education. 
 
  
 
-Prior to comprehending the proper application of AI in education, we must review the objectives of "quality education." We must proceed with those while keeping in mind the UN's Sustainable Development Goals, particularly [SDG4](https://sdgs.un.org/goals/goal4). SDG4 emphasizes the implementation of high-quality education and giving everyone an equal chance to acquire knowledge and skills, along with other sub-goals. UNESCO published an article discussing the use of AI to achieve SDG4 goals and overcome its obstacles. Since inclusive education is a key component of SDG4, we must expose educators and learners to resources that are accessible to everyone for knowledge acquisition. It is widely known that AI is, in fact, being helpful in gaining information and educating oneself on topics that one is interested in. In light of SDG4, AI has already begun to advance through this. It is now critical that we learn how to use the existing tools for education policies and ethics in order to mitigate their harmful influence. 
+Prior to comprehending the proper application of AI in education, we must review the objectives of "quality education." We must proceed with those while keeping in mind the UN's Sustainable Development Goals, particularly [SDG4](https://sdgs.un.org/goals/goal4). SDG4 emphasizes the implementation of high-quality education and giving everyone an equal chance to acquire knowledge and skills, along with other sub-goals. UNESCO published an article discussing the use of [AI to achieve SDG4](https://www.unesco.org/en/digital-education/artificial-intelligence) goals and overcome its obstacles. Since inclusive education is a key component of SDG4, we must expose educators and learners to resources that are accessible to everyone for knowledge acquisition. It is widely known that AI is, in fact, being helpful in gaining information and educating oneself on topics that one is interested in. In light of SDG4, AI has already begun to advance through this. It is now critical that we learn how to use the existing tools for education policies and ethics in order to mitigate their harmful influence. 
 
  
 
