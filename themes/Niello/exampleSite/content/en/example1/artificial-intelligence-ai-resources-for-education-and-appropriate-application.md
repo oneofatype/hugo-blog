@@ -1,6 +1,6 @@
 +++
 title = "Artificial Intelligence (AI): Resources for Education and Appropriate Application"
-date = 2025-04-30T14:32:43.388151
+date = 2025-04-30T14:33:25.201576
 description = "As artificial intelligence continues to progress, it has been observed that students and teachers are turning to AI for assistance. If we are to keep up with current advancements in the field of education, we must understand AI in education, including its benefits and drawbacks."
 categories = []
 tags = []
