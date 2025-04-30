@@ -1,9 +1,9 @@
 +++
 title = "Artificial Intelligence (AI): Resources for Education and Appropriate Application"
-date = 2025-04-30T15:19:57.928745
+date = 2025-04-30T15:21:59.990880
 description = "As artificial intelligence continues to progress, it has been observed that students and teachers are turning to AI for assistance. If we are to keep up with current advancements in the field of education, we must understand AI in education, including its benefits and drawbacks."
-categories = ["Education", "Artificial Intelligence", "", "", "", "", ""]
-tags = ["AI in education", "Useful AI for students", "AI tools for teachers", "AI and SDG4", "Proper use of AI in education", "Advantages of AI in studies", "AI tools for students", "advantages and disadvantages of AI in education", "", "", "", ""]
+categories = ["Education", "Artificial Intelligence", "", "", "", "", "", ""]
+tags = ["AI in education", "Useful AI for students", "AI tools for teachers", "AI and SDG4", "Proper use of AI in education", "Advantages of AI in studies", "AI tools for students", "advantages and disadvantages of AI in education", "", "", "", "", ""]
 draft = false
 +++
 Leaders throughout history have placed a high priority on education. Furthermore, as artificial intelligence (AI) continues to progress, it has been observed that students and teachers are turning to AI for assistance, which raises both positive and negative reactions. According to a[ Forbes Advisor survey](https://www.forbes.com/advisor/education/it-and-tech/artificial-intelligence-in-school/), over 60% of teachers employ AI-powered resources in the classroom, demonstrating that the use of AI has begun to spread widely. It is crucial to remember that whenever a revolutionary shift occurs, both of these reactions are triggered, but there is nothing we can do about it other than keep moving forward with the developments. If we are to keep up with current advancements in the field of education, we must understand AI in education, including its benefits and drawbacks. For this reason, it is imperative that we understand how to use AI to improve education. 
@@ -42,4 +42,6 @@ However, the risk of plagiarism in the case of class assignments still reigns. T
 
 The argument that the use of AI in the field of education threatens creativity and individuality is rather weak. It involves using the resources at hand effectively in order to improve performance. Similar to using various modern art tools to create modern art, the essence of the process is the same even though modern aids are used because what matters is the quality of the finished product. Likewise, using AI for assistance is not entirely wrong as long as it does not result in harm or violation of any laws. All one needs to do is make moral use of the resources at hand. 
 
- 
+* * *
+
+--Kulsum Meher
